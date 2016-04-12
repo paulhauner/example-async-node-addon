@@ -1,9 +1,9 @@
 # Example Async Node C++ Addon
 Allows for non-blocking C++ operations from Node.js using the callback pattern.
 
-Tested in Node.js v4.4.2 LTS on Ubuntu Linux.
+Lightweight example.
 
-Lightweight example - contains nothing you don't need
+Tested in Node.js v4.4.2 LTS on Ubuntu Linux.
 
 ## Usage
 
@@ -20,7 +20,7 @@ $ node index.js
 
 ## Credits
 
-Thanks to Scott Frees' (C++ processing from Node.js - Part 4 - Asynchronous addons)[https://blog.scottfrees.com/c-processing-from-node-js-part-4-asynchronous-addons] article for a lot of help.
+Thanks to Scott Frees' [C++ processing from Node.js - Part 4 - Asynchronous addons](https://blog.scottfrees.com/c-processing-from-node-js-part-4-asynchronous-addons) article for a lot of help.
 
 ## Contribution
 
