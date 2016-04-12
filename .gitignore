@@ -1,3 +1,6 @@
+# Built node-gyp stuff
+async-addon/build/*
+
 # Compiled Object files
 *.slo
 *.lo
