@@ -7,6 +7,7 @@
 #include <node.h>
 #include <uv.h>
 #include <iostream>
+#include <unistd.h>
 
 using namespace std;
 
